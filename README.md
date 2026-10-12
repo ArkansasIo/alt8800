@@ -75,9 +75,7 @@ altair.exe -oFF00 88dskrom.bin -oF800 altmon.bin -oD000 wozmon.bin -dA:cpm3_disk
 The project is built in Visual Studio 2022
  
  1. Clone the repo
-
-    ```
-    git clone --recurse-submodules https://github.com/tommojphillips/Altair8800.git
-    ```
-
- 2. Open `vc\Altair8800.sln`  in visual studio, build and run
+     ```
+     git clone --recurse-submodules https://github.com/ArkansasIo/alt8800.git
+     ```
+  2. Open `vc\Altair8800.sln`  in visual studio, build and run
